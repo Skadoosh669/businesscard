@@ -23,17 +23,17 @@ class MyApp extends StatelessWidget {
                   'Diego Forrest Cruz',
                   style: TextStyle(
                     fontFamily: 'Oswald',
-                    color: Colors.blue,
-                    fontSize: 50.0,
+                    color: Colors.white,
+                    fontSize: 45.0,
 
                   )
               ),
               Text(
-                'Computer Engineering',
+                'Computer Engineer',
                 style: TextStyle(
                   fontFamily: 'Hehe',
-                  color: Colors.blue,
-                  fontSize: 15.0,
+                  color: Colors.white,
+                  fontSize: 20.0,
 
                 )
               ),
@@ -60,6 +60,10 @@ class MyApp extends StatelessWidget {
                       ),
                       title: Text(
                         'cdo0479@dlsud.edu.ph',
+                        style: TextStyle(
+                            fontFamily: 'Hehe',
+                            fontSize: 18.0
+                        ),
 
                       )
 
@@ -78,6 +82,10 @@ class MyApp extends StatelessWidget {
                     ),
                     title: Text(
                       'Instagram: @diegod.666',
+                      style: TextStyle(
+                        fontFamily: 'Hehe',
+                        fontSize: 18.0
+                      ),
                     ),
                     ),
                   ),
@@ -95,6 +103,10 @@ class MyApp extends StatelessWidget {
                       ),
                       title: Text(
                         'Github: @skadoosh669',
+                        style: TextStyle(
+                            fontFamily: 'Hehe',
+                            fontSize: 18.0
+                        ),
 
                   )
                 ),

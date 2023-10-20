@@ -82,10 +82,10 @@ flutter:
   fonts:
     - family: Oswald
       fonts:
-        - asset: fonts/Oswald-Bold.ttf
+        - asset: fonts/Merriweather-BoldItalic.ttf
     - family: Hehe
       fonts:
-        - asset: fonts/Oswald-Light.ttf
+        - asset: fonts/Merriweather-Regular.ttf
   #       - asset: fonts/Schyler-Italic.ttf
   #         style: italic
   #   - family: Trajan Pro
