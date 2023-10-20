@@ -29,7 +29,7 @@ class MyApp extends StatelessWidget {
                   )
               ),
               Text(
-                'Pogi lang',
+                'Computer Engineering',
                 style: TextStyle(
                   fontFamily: 'Hehe',
                   color: Colors.blue,
@@ -46,6 +46,7 @@ class MyApp extends StatelessWidget {
                 ),
               ),
               Card(
+                color: Colors.grey,
                 margin: EdgeInsets.symmetric(vertical:10.0, horizontal: 30.0),
 
                 child: Padding(
@@ -66,6 +67,7 @@ class MyApp extends StatelessWidget {
                 ),
               ),
               Card(
+                color: Colors.grey,
                 margin: EdgeInsets.symmetric(vertical:10.0, horizontal: 30.0),
                 child: Padding(
                   padding: EdgeInsets.all(7.0),
@@ -82,6 +84,7 @@ class MyApp extends StatelessWidget {
 
                 ),
               Card(
+                color: Colors.grey,
                 margin: EdgeInsets.symmetric(vertical:10.0, horizontal: 30.0),
                 child: Padding(
                   padding: EdgeInsets.all(7.0),
